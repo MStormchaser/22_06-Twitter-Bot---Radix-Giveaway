@@ -1,0 +1,3 @@
+2022-08-12 15:37:40,094 - INFO - matplotlib.category - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-08-12 15:37:40,097 - INFO - matplotlib.category - Using categorical units to plot a list of strings that are all parsable as floats or dates. If these strings should be plotted as numbers, cast to the appropriate data type before plotting.
+2022-08-12 15:37:40,209 - INFO - root - Plot successfully created at: 2022-08-12
